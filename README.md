@@ -29,6 +29,7 @@
 
 ### How This Repo Works
 - `assignment03.py` — the student-facing template with task instructions and starter code (graded)
+- `challenge03.py` — ungraded stretch problems for experienced coders, plus a "break the grader" puzzle
 - `tests/test_assignment03.py` — autograder tests that feed inputs and check each task's output
 - `.github/workflows/grade.yml` — GitHub Action that runs on every push to `main`, executes the tests, and posts results as a commit comment
 - `.devcontainer/devcontainer.json` — configures the Codespaces environment (Python 3.11, VS Code extensions, AI features disabled)
